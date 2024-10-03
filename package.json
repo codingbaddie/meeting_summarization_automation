@@ -1,0 +1,8 @@
+{
+    "dependencies": {
+        "@google-cloud/local-auth": "^3.0.1",
+        "@google-cloud/vertexai": "^1.8.1",
+        "dotenv": "^16.4.5",
+        "googleapis": "^144.0.0"
+    }
+}

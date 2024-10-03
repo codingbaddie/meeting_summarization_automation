@@ -1,0 +1,36 @@
+
+# confidential
+.bash_history
+.bash_logout
+.bashrc
+.cache/
+.codeoss/
+.config/
+.config/powershell/
+.docker/
+.gsutil/
+.npm/
+.profile
+.redhat/
+.ssh/
+.sudo_as_admin_successful
+*.swp
+.vscode/
+node_modules/  
+
+# Environment variables
+.env
+
+# Logs
+*.log
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Editor files
+*.swp
+*.swo
+
+#key files
+key-created-from-service-account.json
